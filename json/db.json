@@ -1,0 +1,145 @@
+{
+  "background-image": [
+    {
+      "ur": "https://static.cdn.asset.filimo.com/ct/m76ft_desktop_1_v6.jpeg?width=1920&quality=85&secret=ABN5_dZhR7M9yGvfIntjDQ"
+    },
+    {
+      "url": "https://static.cdn.asset.filimo.com/ct/j94o1_desktop_1_v1.jpeg?width=1920&quality=85&secret=mSlHIYzQmWKLO7VP_sEOvA"
+    },
+
+    {
+      "url": "https://static.cdn.asset.filimo.com/ct/f5gzj_desktop_1_v1.jpeg?width=1920&quality=85&secret=X-ecN362PecCl2tmdpoBXQ"
+    },
+
+    {
+      "url": "https://static.cdn.asset.filimo.com/ct/dhcu7_desktop_1_v1.jpeg?width=1920&quality=85&secret=rgn0ilMxTi7CMui__nSSYQ"
+    },
+
+    {
+      "url": "https://static.cdn.asset.filimo.com/ct/1upx4_desktop_1_v1.jpeg?width=1920&quality=85&secret=NETLmchUhwojsJTOI7MybA"
+    },
+
+    {
+      "url": "https://static.cdn.asset.filimo.com/ct/tr17m_desktop_1_v1.jpeg?width=1920&quality=85&secret=jADRAjFIfvfSeJsZdLqiwQ"
+    }
+  ],
+
+  "sires": [
+    {
+      "id": "1",
+      "image": "https://static.cdn.asset.filimo.com/flmt/mov_149311_185433.jpg?width=165&quality=85&secret=fBF3Py01LZK-8Dnzw2TB2A",
+      "p":"اختصاصی فیلیمو",
+      "title": "گل یا پوچ",
+      "logo": "https://static.cdn.asset.filimo.com/flmt/mov_logo_148679_584.png?width=400&quality=85&secret=_iSarti-Bye4xXQllTrzeg",
+      "dic": "مهران مدیری",
+      "about": "اگه یک قدمی شکست هم بودی، لبخند بزن تا حریفت به پیروزیش شک کنه!",
+      "background_img": "https://static.cdn.asset.filimo.com/flmt/mov_cvr_filimo_hor_149311_188.jpg?width=1920&quality=80&secret=v0cNRSQK-DTO1wAnY1iZLA"
+    },
+    {
+      "id": "2",
+      "image": "https://static.cdn.asset.filimo.com/flmt/mov_149252_185425.jpg?width=165&quality=85&secret=KRUvFOSFtbxn51s2HIyyyA",
+      "p":"اختصاصی فیلیمو",
+      "title": "زخم کاری: انتقام",
+      "logo": "https://static.cdn.asset.filimo.com/flmt/mov_logo_85436_913.png?width=400&quality=85&secret=kfquje7CjB2ggH6NkCDnEA",
+      "dic": "محمدحسین مهدویان",
+      "about": "مالک برای ربودن اسناد و مدارک طلوعی دست به کار می شود. او به واسطه دکتر اسماعیل طلوعی موفق می شود طلوعی را به دردسر بیندازد. از طرف دیگر سیما و سمیرا با کنترل طلوعی و وراث",
+      "background_img": "https://static.cdn.asset.filimo.com/flmt/mov_cvr_filimo_hor_149252_543.jpg?width=1920&quality=80&secret=saD3C1CBRZI5GsOUi0VITQ"
+    },
+    {
+      "id": "3",
+      "image": "https://static.cdn.asset.filimo.com/flmt/mov_149058_184625.jpg?width=165&quality=85&secret=w4gvljdosiqa_U8a9M5u4g",
+      "p":"اختصاصی فیلیمو",
+      "title": "لالایی",
+      "logo": "",
+      "dic": "احمد درویشعلی پور",
+      "about": "خانم گلشن مدتهاست در فقدان دوستش الهه که مدیر موسسه گلشنِ جاوید بوده،حال و روز خوشی ندارد،از سویی دیگر بچه های موسسه هم",
+      "background_img": "https://static.cdn.asset.filimo.com/flmt/mov_cvr_filimo_hor_149058_700.jpg?width=1920&quality=80&secret=ZiERMop9O3QCAQjSh3OwWw"
+    },
+    {
+      "id": "4",
+      "image": "https://static.cdn.asset.filimo.com/flmt/mov_149310_185431.jpg?width=165&quality=85&secret=Lns_fh0vXnOjBxEXwjkPdg",
+      "p":"اختصاصی فیلیمو",
+      "title": "جوکر 2",
+      "logo": "https://static.cdn.asset.filimo.com/flmt/mov_logo_147471_422.png?width=400&quality=85&secret=FMgCE2mroMFjVb21WIYa-g",
+      "dic": " احسان علیخانی",
+      "about": "وقتی سیروس میمنت با غلامرضا نیکخواه تیم میشن حتی اگه مراسم ختم هم برگزار کنن خنده داره! ناهید مسلمی هم روش جدیدی بر",
+      "background_img": "https://static.cdn.asset.filimo.com/flmt/mov_cvr_filimo_hor_149096_345.jpg?width=1920&quality=80&secret=Cfl44sV2XtlxOAfRocphLA"
+    },
+    {
+      "id": "5",
+      "image": "https://static.cdn.asset.filimo.com/flmt/mov_149096_185050.jpg?width=165&quality=85&secret=8VYEyO_dfB_2E_UjQegw-Q",
+      "p":"اختصاصی فیلیمو",
+      "title": "سرگیجه",
+      "logo": "https://static.cdn.asset.filimo.com/flmt/mov_logo_147881_512.png?width=400&quality=85&secret=s0NqtSV6Fv8O7QJgUXCuyQ",
+      "dic": "محمد حاتمی",
+      "about": "توی قسمت دوم این فصل، گزینه های روی میز زیاده و شرکت کننده ها حق انتخاب دارن. اما تبعات این انتخاب سنگینه. یا باید شکنجه ",
+      "background_img": "https://static.cdn.asset.filimo.com/flmt/mov_cvr_filimo_hor_149249_118.jpg?width=1920&quality=80&secret=1py6an459dxw9loDYk-g-w"
+    },
+    {
+      "id": "6",
+      "image": "https://static.cdn.asset.filimo.com/flmt/mov_149310_185431.jpg?width=165&quality=85&secret=Lns_fh0vXnOjBxEXwjkPdg",
+      "p":"اختصاصی فیلیمو",
+      "title": "پسر دلفینی",
+      "log": "https://static.cdn.asset.filimo.com/flmt/mov_logo_145135_980.png?width=400&quality=85&secret=fVJ6iCuhyJk2Wsj-jNRmmA",
+      "dic": "رضا فصاحت",
+      "about": "یک نهنگ قاتل با هدف انتقام از پسر و سفید که آبروی دلفین ها را به دلیل خدمت به آدمی به باد داده اند با حیله و فریب جلو می آی",
+      "background_img": "https://static.cdn.asset.filimo.com/flmt/mov_cvr_filimo_hor_149310_570.jpg?width=1920&quality=80&secret=vDww8-AJTG3Go9z0dOb00Q"
+    }
+  ],
+  "movies": [
+    {
+      "id": "1",
+      "image": "https://static.cdn.asset.filimo.com/flmt/mov_148098_181296.jpg?width=165&quality=85&secret=gd0DfcV32I-fQf3tFxj31A",
+      "title": "ستون ۱۴",
+      "logo": "https://static.cdn.asset.filimo.com/flmt/mov_logo_148098_610.png?width=400&quality=85&secret=FkIlWP3F5cp3Kr8c7XExKQ",
+      "dic": "امیرحسین همتی",
+      "about": "ساناز و یاشار وقتی می ترسند، بازی می کنند، این بار با زندگی جلال.",
+      "background_img": "https://static.cdn.asset.filimo.com/flmt/mov_cvr_filimo_hor_148098_727.jpg?width=1920&quality=80&secret=tEZkV448AWUwHrnppqVudg"
+    },
+    {
+      "id": "2",
+      "image": "https://static.cdn.asset.filimo.com/flmt/mov_147944_175967.jpg?width=165&quality=85&secret=ju8_Uf2DFpEvNaTERV_S0w",
+      "title": "پالتو شتری",
+      "logo": "https://static.cdn.asset.filimo.com/flmt/mov_logo_147944_566.png?width=400&quality=85&secret=_u6ENpUidNkGbnOr3BsJlQ",
+      "dic": "هدی علی میرزایی",
+      "about": "این فیلم دربارهٔ پسری جوان است که در رشته فلسفه درس می خواند. او یک پالتوی شتری رنگ از پدرش به ارث برده اما این پالتو برای او دردسرساز شده چون هر وقت آن را می",
+      "background_img": "https://static.cdn.asset.filimo.com/flmt/mov_cvr_filimo_hor_147944_551.jpg?width=1920&quality=80&secret=eeDw_JdFTFnN3EKu-gmL5g"
+    },
+    {
+      "id": "3",
+      "image": "https://static.cdn.asset.filimo.com/flmt/mov_147582_169763.jpg?width=165&quality=85&secret=VsoPsxuJTLEp2Y8xB8wv2g",
+      "title": "روز ششم",
+      "logo": "https://static.cdn.asset.filimo.com/flmt/mov_logo_147582_964.png?width=400&quality=85&secret=MYgwzZTA6PI6C4SjLv2FxQ",
+      "dic": "حجت قاسم زاده اصل",
+      "about": "احمد پس از آزادی از زندان فقط پنج روز فرصت دارد پاسخ چند معما را که به وقایع گذشته مربوط است، پیدا کند و اگر موفق نشود کش",
+      "background_img": "https://static.cdn.asset.filimo.com/flmt/mov_cvr_filimo_hor_147582_978.jpg?width=1920&quality=80&secret=fBAW0k8WtMhqnw01xqadDA"
+    },
+    {
+      "id": "4",
+      "image": "https://static.cdn.asset.filimo.com/flmt/mov_147067_158271.jpg?width=165&quality=85&secret=9KYGIBU5GhRXXGuWwV5vDg",
+      "title": "پالایشگاه",
+      "logo": "https://static.cdn.asset.filimo.com/flmt/mov_logo_147067_517.png?width=400&quality=85&secret=P9mZkXM07S2Vwsl5Waxb_Q",
+      "dic": "مهرداد خوشبخت",
+      "about": "در سال ۱۳۵۹ همزمان با جنگ تحمیلی، تعدادی از مهندسین پالایشگاه نفت آبادان در تلاش هستند با امکانات و تجهیزاتی که در داخل انبارهای آن است، پالایشگاه‌های دیگر را ترمیم کنند.خریداشتراک و تماشابالای ۱۵ سال - یک ساعت و ۴۹ دقیقه - محصول ایران - ۱۴۰۱ - کیفیت HD",
+      "background_img": "https://static.cdn.asset.filimo.com/flmt/mov_cvr_filimo_hor_147067_905.jpg?width=1920&quality=80&secret=iJ5fSLGBPjCI4KbzWOFQUg"
+    },
+    {
+      "id": "5",
+      "image": "https://static.cdn.asset.filimo.com/flmt/mov_17534_163713.jpg?width=165&quality=85&secret=DQvxEVTteFZVxHh9uWEbDw",
+      "title": "آب نبات چوبی",
+      "logo": "https://static.cdn.asset.filimo.com/flmt/mov_logo_17534_130.png?width=400&quality=85&secret=RVGLuhFW5IcEg3Dd7imV6A",
+      "dic": "محمدحسین فرح بخش",
+      "about": "فیلم آب نبات چوبی مسائل جوانان و مشکلات تفاوت نسلی را بررسی می کند. اختلاف دیدگاه نسل قدیم و جدید درباره مشکلات خانواده و تاثیر جامعه ب",
+      "background_img": "https://static.cdn.asset.filimo.com/flmt/mov_cvr_filimo_hor_17534_218.jpg?width=1920&quality=80&secret=tzHss5LI2YBiDhESO9X8_Q"
+    },
+    {
+      "id": "6",
+      "image": "https://static.cdn.asset.filimo.com/flmt/mov_147",
+      "title": "آهو",
+      "logo": "https://static.cdn.asset.filimo.com/flmt/mov_logo_146927_824.png?width=400&quality=85&secret=S9ro0RbfKmCLssijlohjlA",
+      "dic": "هوشنگ گلمکانی",
+      "about": "آهو حکایت انزوای خودخواسته دختری است که آرزوهایش را بر باد رفته می‌بیند، اما هنوز امیدش را از دست نداده است.",
+      "background_img": "https://static.cdn.asset.filimo.com/flmt/mov_cvr_filimo_hor_146927_695.jpg?width=1920&quality=80&secret=HSNe934VQ4qmh7CLzoe5WA"
+    }
+  ]
+}
