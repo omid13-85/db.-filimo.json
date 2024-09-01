@@ -1,0 +1,10 @@
+[
+    {
+        "img":1,
+        "imgBackground_1":"../public/asset/image/TVBG-yaghi (2).png"
+    },
+    {
+        "img":2,
+        "imgBackground_2":"../public/asset/image/TVBG (2).png"
+    }
+]
