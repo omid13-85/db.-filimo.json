@@ -1,10 +1,10 @@
 [
     {
         "img":1,
-        "imgBackground_1":"../public/asset/image/TVBG-yaghi (2).png"
+        "imgBackground_1":"https://www.filimo.com/assets/web/ui/img-nhQbBQB8PcCL8uqRe4vStg/campaigns/nosub-v_new/TVBG-yaghi.png"
     },
     {
         "img":2,
-        "imgBackground_2":"../public/asset/image/TVBG (2).png"
+        "imgBackground_2":"https://www.filimo.com/assets/web/ui/img-nhQbBQB8PcCL8uqRe4vStg/campaigns/nosub-v_new/TVBG.png"
     }
 ]
