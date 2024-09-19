@@ -1,6 +1,6 @@
 [
     {
-      "id": "1",
+      "id": 1,
       "images": "https://static.cdn.asset.filimo.com/flmt/mov_149311_185433.jpg?width=165&quality=85&secret=fBF3Py01LZK-8Dnzw2TB2A",
       "p":"اختصاصی فیلیمو",
       "NameSe": "گل یا پوچ",
@@ -10,7 +10,7 @@
       "backgroundS": "https://static.cdn.asset.filimo.com/flmt/mov_cvr_filimo_hor_149311_188.jpg?width=1920&quality=80&secret=v0cNRSQK-DTO1wAnY1iZLA"
     },
     {
-      "id": "2",
+      "id": 2,
       "images": "https://static.cdn.asset.filimo.com/flmt/mov_149252_185425.jpg?width=165&quality=85&secret=KRUvFOSFtb_sxn51s2HIyyyA",
       "p":"اختصاصی فیلیمو",
       "NameSe": "زخم کاری: انتقام",
@@ -20,7 +20,7 @@
       "background_img_s": "https://static.cdn.asset.filimo.com/flmt/mov_cvr_filimo_hor_149252_543.jpg?width=1920&quality=80&secret=saD3C1CBRZI5GsOUi0VITQ"
     },
     {
-      "id": "3",
+      "id": 3,
       "images": "https://static.cdn.asset.filimo.com/flmt/mov_149058_184625.jpg?width=165&quality=85&secret=w4gvljdosiqa_U8a9M5u4g",
       "p":"اختصاصی فیلیمو",
       "NameSe": "لالایی",
@@ -30,7 +30,7 @@
       "backgroundS": "https://static.cdn.asset.filimo.com/flmt/mov_cvr_filimo_hor_149058_700.jpg?width=1920&quality=80&secret=ZiERMop9O3QCAQjSh3OwWw"
     },
     {
-      "id": "4",
+      "id": 4,
       "images": "https://static.cdn.asset.filimo.com/flmt/mov_149310_185431.jpg?width=165&quality=85&secret=Lns_fh0vXnOjBxEXwjkPdg",
       "p":"اختصاصی فیلیمو",
       "NameSe": "جوکر 2",
@@ -40,7 +40,7 @@
       "background_img_s": "https://static.cdn.asset.filimo.com/flmt/mov_cvr_filimo_hor_149096_345.jpg?width=1920&quality=80&secret=Cfl44sV2XtlxOAfRocphLA"
     },
     {
-      "id": "5",
+      "id": 5,
       "images": "https://static.cdn.asset.filimo.com/flmt/mov_149096_185050.jpg?width=165&quality=85&secret=8VYEyO_dfB_2E_UjQegw-Q",
       "p":"اختصاصی فیلیمو",
       "NameSe": "سرگیجه",
@@ -50,7 +50,7 @@
       "background_img_s": "https://static.cdn.asset.filimo.com/flmt/mov_cvr_filimo_hor_149249_118.jpg?width=1920&quality=80&secret=1py6an459dxw9loDYk-g-w"
     },
     {
-      "id": "6",
+      "id": 6,
       "images": "https://static.cdn.asset.filimo.com/flmt/mov_149310_185431.jpg?width=165&quality=85&secret=Lns_fh0vXnOjBxEXwjkPdg",
       "p":"اختصاصی فیلیمو",
       "NameSe": "پسر دلفینی",
